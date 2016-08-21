@@ -1,0 +1,23 @@
+{
+  "name": "enable-mobile",
+  "version": "1.0.0",
+  "description": "Enable mobile metas for app, demo or tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfcreative/enable-mobile.git"
+  },
+  "keywords": [
+    "mobile",
+    "test"
+  ],
+  "author": "ΔY <dfcreative@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfcreative/enable-mobile/issues"
+  },
+  "homepage": "https://github.com/dfcreative/enable-mobile#readme"
+}
