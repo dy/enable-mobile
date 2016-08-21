@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/dfcreative/enable-mobile.git"
   },
+  "browserify": {
+    "transform": "brfs"
+  },
   "keywords": [
     "mobile",
     "test"
@@ -19,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/dfcreative/enable-mobile/issues"
   },
-  "homepage": "https://github.com/dfcreative/enable-mobile#readme"
+  "homepage": "https://github.com/dfcreative/enable-mobile#readme",
+  "dependencies": {
+    "brfs": "^1.4.3",
+    "insert-styles": "^1.2.1",
+    "normalize.css": "latest"
+  }
 }

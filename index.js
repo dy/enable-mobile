@@ -1,3 +1,8 @@
+const css = require('insert-styles');
+const fs = require('fs');
+
+css(fs.readFileSync(require.resolve('normalize.css'), 'utf-8'));
+
 addMeta({
 	name: 'viewport',
 	content: 'width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=0'
