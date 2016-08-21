@@ -2,7 +2,7 @@
 
 Include that script to enable mobile view.
 
-[![enable-mobile](https://raw.githubusercontent.com/dfcreative/enable-mobile/gh-pages/images/preview.png "enable-mobile")](http://dfcreative.github.io/enable-mobile/)
+[![npm install enable-mobile](https://nodei.co/npm/enable-mobile.png?mini=true)](https://npmjs.org/package/enable-mobile/)
 
 ```js
 require('enable-mobile');
