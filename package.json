@@ -1,6 +1,6 @@
 {
   "name": "enable-mobile",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Enable mobile metas for app, demo or tests",
   "main": "index.js",
   "scripts": {
