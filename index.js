@@ -1,3 +1,4 @@
+require('get-float-time-domain-data');
 const css = require('insert-styles');
 const fs = require('fs');
 
@@ -18,8 +19,12 @@ addMeta({
 
 function addMeta (obj) {
 	let meta = document.createElement('meta');
+	let qs = 'meta';
 	for (let name in obj) {
+		qs += `[${name}]`
 		meta.setAttribute(name, obj[name]);
 	}
-	document.head.insertBefore(meta, document.head.firstChild);
+	if (!document.querySelector(qs)) {
+		document.head.insertBefore(meta, document.head.firstChild);
+	}
 }

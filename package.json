@@ -4,7 +4,7 @@
   "description": "Enable mobile metas for app, demo or tests",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "budo index.js"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,7 @@
   "homepage": "https://github.com/dfcreative/enable-mobile#readme",
   "dependencies": {
     "brfs": "^1.4.3",
+    "get-float-time-domain-data": "^0.1.0",
     "insert-styles": "^1.2.1",
     "normalize.css": "latest"
   }

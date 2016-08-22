@@ -1,6 +1,6 @@
 # enable-mobile [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
-Include that script to enable mobile view.
+Include that script to enhance mobile view of the page. It is mostly collection of boilerplate code I used across various components demos, so here is all of it, to reuse hussle-free.
 
 [![npm install enable-mobile](https://nodei.co/npm/enable-mobile.png?mini=true)](https://npmjs.org/package/enable-mobile/)
 
