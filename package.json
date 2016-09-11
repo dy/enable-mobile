@@ -27,6 +27,7 @@
     "brfs": "^1.4.3",
     "get-float-time-domain-data": "^0.1.0",
     "insert-styles": "^1.2.1",
-    "normalize.css": "latest"
+    "normalize.css": "latest",
+    "typedarray-methods": "^1.0.0"
   }
 }

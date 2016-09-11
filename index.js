@@ -1,3 +1,4 @@
+require('typedarray-methods');
 require('get-float-time-domain-data');
 const css = require('insert-styles');
 const fs = require('fs');
