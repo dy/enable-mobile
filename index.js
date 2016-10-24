@@ -1,3 +1,4 @@
+require('./arr-fill');
 require('typedarray-methods');
 require('get-float-time-domain-data');
 const css = require('insert-styles');
