@@ -19,4 +19,4 @@ That will insert the following code:
 
 Useful for tests, apps, demo.
 
-Ideas for enhancements are welcomed.
+Have a look at [mobilify](https://github.com/dfcreative/mobilify) − browserify transform enabling mobile.
